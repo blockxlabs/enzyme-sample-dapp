@@ -1,0 +1,8 @@
+{
+  "short_name": "Sample DApp for Enzyme Wallet",
+  "name": "Sample DApp for Enzyme Wallet",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
