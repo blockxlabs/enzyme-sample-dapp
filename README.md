@@ -29,3 +29,7 @@ You can learn more in the [Enzyme Wallet documentation](https://getenzyme.dev/en
 ## Contact Us
 
 If you need more info please contact us [info@blockxlabs.com](mailto:info@blockxlabs.com)
+
+## License
+
+Enzyme Sample DApp is [licensed](LICENSE) as Apache 2.0 software. 
