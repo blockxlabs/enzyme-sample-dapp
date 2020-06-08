@@ -25,3 +25,7 @@ Sign Message [https://getenzyme.dev/enzyme/docs/examples/sign_message/](https://
 ## Learn More
 
 You can learn more in the [Enzyme Wallet documentation](https://getenzyme.dev/enzyme/docs/).
+
+## Contact Us
+
+If you need more info please contact us [info@blockxlabs.com](mailto:info@blockxlabs.com)
